@@ -28,12 +28,12 @@
               "target": "https://raw.githubusercontent.com/nataliaratulovska/IIIF_Vortrag/main/canvas/1"
             },
             {
-              "id": "https://raw.githubusercontent.com/nataliaratulovska/IIIF_Vortrag/main/page/1/transkription",
+              "id": "https://raw.githubusercontent.com/nataliaratulovska/IIIF_Vortrag/main/page/1/fraktur-box",
               "type": "Annotation",
-              "motivation": "supplementing",
+              "motivation": "highlighting",
               "body": {
                 "type": "TextualBody",
-                "value": "...die Kartoffel bringt Euch nur\nbei häufigem Saatgutwechsel\nreiche und sichere Erträge.\nDie richtigen Sorten wählt mit Euren Beratern!\nfür beste Lieferung aus\nbesonders geeigneten Herkunftsgebieten\nsorgt die Baywa",
+                "value": "Frakturtext: ...die Kartoffel bringt Euch nur bei häufigem Saatgutwechsel reiche und sichere Erträge. Die richtigen Sorten wählt mit Euren Beratern! für beste Lieferung aus besonders geeigneten Herkunftsgebieten sorgt die Baywa",
                 "format": "text/plain",
                 "language": "de"
               },
