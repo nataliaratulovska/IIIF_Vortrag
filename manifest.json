@@ -23,7 +23,8 @@
                 "type": "Image",
                 "format": "image/png",
                 "width": 503,
-                "height": 726
+                "height": 726,
+                "service": null
               },
               "target": "https://nataliaratulovska.github.io/IIIF_Vortrag/canvas/1"
             },
