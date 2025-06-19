@@ -5,17 +5,17 @@
   "label": { "en": ["Mein erstes IIIF-Manifest"] },
   "items": [
     {
-      "id": "https://example.org/canvas/1",
+      "id": "https://raw.githubusercontent.com/nataliaratulovska/IIIF_Vortrag/main/canvas/1",
       "type": "Canvas",
       "width": 503,
       "height": 726,
       "items": [
         {
-          "id": "https://example.org/annotationpage/1",
+          "id": "https://raw.githubusercontent.com/nataliaratulovska/IIIF_Vortrag/main/page/1/annotation",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://example.org/annotation/1/image",
+              "id": "https://raw.githubusercontent.com/nataliaratulovska/IIIF_Vortrag/main/page/1/image",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -25,19 +25,19 @@
                 "width": 503,
                 "height": 726
               },
-              "target": "https://example.org/canvas/1"
+              "target": "https://raw.githubusercontent.com/nataliaratulovska/IIIF_Vortrag/main/canvas/1"
             },
             {
-              "id": "https://example.org/annotation/1/transcription",
+              "id": "https://raw.githubusercontent.com/nataliaratulovska/IIIF_Vortrag/main/page/1/transkription",
               "type": "Annotation",
               "motivation": "supplementing",
               "body": {
                 "type": "TextualBody",
-                "value": "Dies ist die Transkription des Dokuments.",
+                "value": "...die Kartoffel bringt Euch nur\nbei häufigem Saatgutwechsel\nreiche und sichere Erträge.\nDie richtigen Sorten wählt mit Euren Beratern!\nfür beste Lieferung aus\nbesonders geeigneten Herkunftsgebieten\nsorgt die Baywa",
                 "format": "text/plain",
                 "language": "de"
               },
-              "target": "https://example.org/canvas/1"
+              "target": "https://raw.githubusercontent.com/nataliaratulovska/IIIF_Vortrag/main/canvas/1#xywh=495,723,19,502"
             }
           ]
         }
