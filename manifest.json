@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://nataliaratulovska.github.io/IIIF_Vortrag/manifest.json",
+  "type": "Manifest",
+  "label": { "en": ["Mein erstes IIIF-Manifest"] },
+  "items": [
+    {
+      "id": "https://nataliaratulovska.github.io/IIIF_Vortrag/canvas/1",
+      "type": "Canvas",
+      "width": 503,
+      "height": 726,
+      "items": [
+        {
+          "id": "https://nataliaratulovska.github.io/IIIF_Vortrag/page/1/annotation",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nataliaratulovska.github.io/IIIF_Vortrag/page/1/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://raw.githubusercontent.com/nataliaratulovska/IIIF_Vortrag/main/a1a849c7-8554-4e2a-8227-b8e5ee730072.png",
+                "type": "Image",
+                "format": "image/png",
+                "width": 503,
+                "height": 726
+              },
+              "target": "https://nataliaratulovska.github.io/IIIF_Vortrag/canvas/1"
+            },
+            {
+              "id": "https://nataliaratulovska.github.io/IIIF_Vortrag/page/1/transkription",
+              "type": "Annotation",
+              "motivation": "supplementing",
+              "body": {
+                "type": "TextualBody",
+                "value": "Dies ist die Transkription des Dokuments.",
+                "format": "text/plain",
+                "language": "de"
+              },
+              "target": "https://nataliaratulovska.github.io/IIIF_Vortrag/canvas/1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
