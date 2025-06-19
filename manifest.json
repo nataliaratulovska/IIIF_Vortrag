@@ -33,11 +33,11 @@
               "motivation": "supplementing",
               "body": {
                 "type": "TextualBody",
-                "value": "...die Kartoffel bringt Euch nur\nbei häufigem Saatgutwechsel\nreiche und sichere Erträge.\nDie richtigen Sorten wählt mit Euren Beratern!\nfür beste Lieferung aus\nbesonders geeigneten Herkunftsgebieten\nsorgt die Baywa",
+                "value": "Beispiel-Transkription: Das ist ein Textbereich zum Testen.",
                 "format": "text/plain",
                 "language": "de"
               },
-              "target": "https://raw.githubusercontent.com/nataliaratulovska/IIIF_Vortrag/main/canvas/1#xywh=21,508,467,212"
+              "target": "https://raw.githubusercontent.com/nataliaratulovska/IIIF_Vortrag/main/canvas/1#xywh=50,50,200,100"
             }
           ]
         }
